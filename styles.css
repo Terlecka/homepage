@@ -13,8 +13,8 @@ body {
 	--secondary-text-color: #5c5c62;
 	--durability-text-color: #6a737d9c;
 	--icon-color: #6a737d;
-	--border-color: #ff9a0045;
-	--text-decoration-color: #ff9a00;
+	--border-color: #ff00d945;
+	--text-decoration-color: #ff00c8;
 }
 
 .container {
@@ -36,7 +36,7 @@ body {
 }
 
 .resume {
-	margin: 50px auto;
+	margin: 25px auto;
 	border: 1px solid #f5f5f5;
 	box-shadow: 1px 1px 7px 7px #f5f5f5;
 	padding: 30px 0;
@@ -225,7 +225,7 @@ body {
 }
 
 .additional-info__education {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .additional-info__education-header {
